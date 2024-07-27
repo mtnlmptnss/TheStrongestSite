@@ -12,11 +12,11 @@ const phrases = [
 ];
 // array of imgs which can be selected
 const images = [
-    "/resources/images.jpg",
-    "/resources/94496cab53aa6ca94d9db8c36eba781f.jpg",
-    "/resources/25ea499e8dc57ffd7461f40cc12e8c4b.jpg",
-    "/resources/main-qimg-3d3b72e4cfe24473442511ad97ea6c76.jpg",
-    "/resources/e0a0c2ad2310b247402e745b26805176.jpg"
+    "./images.jpg",
+    "./94496cab53aa6ca94d9db8c36eba781f.jpg",
+    "./25ea499e8dc57ffd7461f40cc12e8c4b.jpg",
+    "./main-qimg-3d3b72e4cfe24473442511ad97ea6c76.jpg",
+    "./e0a0c2ad2310b247402e745b26805176.jpg"
 ];
 
 //Go through the array of images and create an Image for each object
